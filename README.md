@@ -1,2 +1,2 @@
 # Pear
-Game engine
+C++ Game engine
