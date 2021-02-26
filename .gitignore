@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+!vendor/premake/bin/
+bin-int/
+
+# Pear generated files
+*.log
+
+# Visual Studo files
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
